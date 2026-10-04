@@ -12,14 +12,14 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ### Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-######Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+###### Header five
+###### Header six
 
-####Colombian Symbolism in One Hundred Years of Solitude
+#### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -29,7 +29,7 @@ Here's some words about the book _One Hundred Years..._.
 
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-####The Latest News from [the BBC](https://www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -115,3 +115,4 @@ If you _do_ make a mess, use a towel to clean it up!
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up! 
 
 
+**Kiitos kurssista** 
